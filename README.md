@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nicholasmagner/threat-hunting-scenario-tor)**
 
+## ☁️ Cloud Projects
+
+- **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/nicholasmagner/soc-honeynet-azure)** 
+
 <hr/>
 
 ## 🤳 Connect With Me
