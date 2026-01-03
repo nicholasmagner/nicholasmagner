@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Projects
 
-- **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/nicholasmagner/soc-honeynet-azure)** 
+- **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/nicholasmagner/azure-honeynet-soc)** 
 
 <hr/>
 
