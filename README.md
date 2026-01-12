@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nicholasmagner/threat-hunting-scenario-tor)**
-- **[Threat Hunting CTF Challenge: Dead in the Water](https://youtu.be/9jo51nJrO0k?si=xN9X0COjcDjziGyc&autoplay=1)**
+- **[Threat Hunting CTF Challenge: Dead in the Water](https://github.com/nicholasmagner/cyber-range-threat-hunt-dead-in-the-water)**
 
 ## ☁️ Cloud Projects
 
@@ -19,7 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-## 🤳 Connect With Me
+## 🤝 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
