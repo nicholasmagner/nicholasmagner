@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Autonomous SOC Analyst (Agentic AI Security Automation)](https://github.com/nicholasmagner/autonomous-soc-analyst)**
 - **[Agentic AI–Powered Vulnerability Management](https://github.com/nicholasmagner/agentic-ai-vulnerability-management)**
+- **[SignalSec: Agentic AI-powered Cybersecurity News Platform](https://github.com/nicholasmagner/signalsec)**
 
 ## ⚠️ Vulnerability Management Projects
 
