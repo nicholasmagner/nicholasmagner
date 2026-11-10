@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/nicholas-magner/">Nicholas Magner</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management, threat detection, cloud security, and agentic AI, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I'm passionate about cybersecurity and building practical solutions to complex security challenges. My work spans vulnerability management, threat detection, cloud security, governance, risk, and compliance (GRC), GRC engineering, and agentic AI. Through hands-on projects, I explore ways to strengthen security operations, automate compliance workflows, and improve processes. Explore my repositories to see what I’m building, testing, and learning along the way.
 ## 🧠 Agentic AI Projects
 
 - **[Autonomous SOC Analyst (Agentic AI Security Automation)](https://github.com/nicholasmagner/autonomous-soc-analyst)**
